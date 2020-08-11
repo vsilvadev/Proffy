@@ -1,4 +1,4 @@
-<img src="https://github.com/vsilvadev/Proffy/blob/master/github_images/proffy.jpg" alt="Proffy Logo" width="100%" height="400">
+<img src="https://github.com/vsilvadev/Proffy/blob/master/github_images/proffy.jpg" alt="Proffy Logo">
 
 <h1 align="center">Proffy<a name="title"></a></h1>
 <p align="center">A online study platform that connects students and teachers</p>
@@ -22,7 +22,7 @@
 - [x] Consultation of available classes with filters
 
 <h2>🖥 The Application<a name="application"></a></h2>
-<img src="https://github.com/vsilvadev/Proffy/blob/master/github_images/proffy_projeto.gif" alt="Running Application" width="75%" height="400">
+<img src="https://github.com/vsilvadev/Proffy/blob/master/github_images/proffy_projeto.gif" alt="Running Application">
 
 <h2>❗ How to run<a name="how-to"></a></h2>
 <h3>Prerequisites</h3>
@@ -65,7 +65,7 @@ The following tools were used in the construction of the project: <br><br>
 <h2>⭐ Author<a name="author"></a></h2>
 
 <h3>Vitor Silva</h3> 
-<img src="https://avatars3.githubusercontent.com/u/60434378?s=400&u=f3497d52861de514e8a1973fd3dce8132ed7aa8d&v=4" alt="Author" width="10%" height="100">
+<img src="https://avatars3.githubusercontent.com/u/60434378?s=400&u=f3497d52861de514e8a1973fd3dce8132ed7aa8d&v=4" alt="Author" width="100" height="100">
 Done with love ❤️ by Vitor Silva 👋🏽 Get in touch: <br>
 💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
 📧 <a href="mailto:vitorabsilva10@gmail.com">Email</a><br>
