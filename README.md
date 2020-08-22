@@ -36,7 +36,7 @@ Before starting, you will need to have the following tools installed on your mac
 </a>
 
 <h3>Running the project</h3>
-<h4>Clone este repositório</h4>
+<h4>Clone this repositorie</h4>
 $ git clone https://github.com/vsilvadev/Proffy.git
 
 <h4>Access the project folder in the terminal/cmd</h4>
