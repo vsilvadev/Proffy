@@ -37,16 +37,24 @@ Before starting, you will need to have the following tools installed on your mac
 
 <h3>Running the project</h3>
 <h4>Clone this repository</h4>
+<pre>
 $ git clone https://github.com/vsilvadev/Proffy.git
+</pre>
 
 <h4>Access the project folder in the terminal/cmd</h4>
+<pre>
 $ cd Proffy
+</pre>
 
 <h4>Install the dependencies</h4>
+<pre>
 $ npm install
+</pre>
 
 <h4>Run the application</h4>
+<pre>
 $ npm run dev
+</pre>
 
 <h4>See the application running</h4>
 <p>The server will start at port:5500 - go to http://localhost:5500</p>
